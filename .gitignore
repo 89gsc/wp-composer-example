@@ -1,0 +1,8 @@
+/vendor/**/*
+/.idea/**/*
+/composer.lock
+/env-config.php
+/wp/**/*
+/wp/*
+/.htaccess
+/content/**/*
